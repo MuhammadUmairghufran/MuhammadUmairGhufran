@@ -1,5 +1,4 @@
-![Hi, I'm Muhammad Umair Ghufran 👋 I'm a 🚀 Full Stack Developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
-
+![Hi, I'm Muhammad Umair Ghufran 👋 I'm a 🚀 Full Stack Developer 🚀 I ❤️ Happy Hardcore ❤️]
 
 Here are some ideas to get you started:
 
