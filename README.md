@@ -1,11 +1,5 @@
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+![Hi, I'm Muhammad Umair Ghufran 👋 I'm a 🚀 Full Stack Developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
 
-<!--
-how to make this gif ?
-
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
--->
 
 Here are some ideas to get you started:
 
