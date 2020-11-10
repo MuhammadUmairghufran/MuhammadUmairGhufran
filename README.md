@@ -1,9 +1,5 @@
 ![Hi, I'm Muhammad Umair Ghufran 👋 I'm a 🚀 Full Stack Developer 🚀 I ❤️ Happy Hardcore ❤️]
 
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own Mobile Apps 
@@ -15,6 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Programming Lanaguages
+
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+
+
 
 
 ### Stackoverflow Badget
