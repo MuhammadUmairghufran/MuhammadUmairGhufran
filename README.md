@@ -29,8 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Passionate Programmer
 - ⚡ Fun fact: I love to laugh and making jokes to make fun.
 -->
-
-
-<a href="https://github.com/muhammadUmairghufran">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadUmairghufran&theme=light" />
-</a>
