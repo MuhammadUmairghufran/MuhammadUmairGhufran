@@ -12,12 +12,8 @@
 - 🙃 Fun fact: I love to laugh and making jokes to make fun.
 
 
-# Technologies Stack
-
-
-# Tools
-
-
+## Languages and Tools
+ <br>
 
 ## Support me
 
