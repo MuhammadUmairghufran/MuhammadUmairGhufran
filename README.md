@@ -16,11 +16,10 @@
 </a>
 <br/>
 <br/>
-<!-- gif Image -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 Here are some ideas to get you started:
 
+- 🎓 bachelor of computer science 
 - 🔭 I’m currently working on my own Mobile Apps 
 - 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for help with Business Solution, Health & Startups
@@ -29,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Passionate Programmer
 - ⚡ Fun fact: I love to laugh and making jokes to make fun.
 -->
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
