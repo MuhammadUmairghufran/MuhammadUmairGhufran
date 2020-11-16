@@ -18,7 +18,7 @@
 
 <br />
 
-## Technologies
+## ⚡ Technologies
 
 <br />
 
