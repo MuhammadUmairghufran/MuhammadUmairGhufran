@@ -18,6 +18,8 @@
 </a>
 <br/>
 <br/>
+<!-- gif Image -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 Here are some ideas to get you started:
 
