@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/MuhammadUmairghufran">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadUmairghufran&theme=light" />
+<a href="https://github.com/muhammadUmairghufran">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadUmairghufran&theme=light" />
 </a>
