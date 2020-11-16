@@ -22,7 +22,7 @@
 
 <br />
 
-## Support me
+## 🙋 Support me
 
 <p align="center">
   <a href="https://www.patreon.com/umairghufran" target="_blank">
