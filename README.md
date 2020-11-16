@@ -1,4 +1,5 @@
 
+## Introduction
 
 - 👨‍💻 24 Old - Full Stack developer 
 - 🎓 bachelor of computer science 
@@ -9,6 +10,13 @@
 - 📫 How to reach me: meet@umairghufran.com 
 - 😄 Pronouns: Passionate Programmer
 - 🙃 Fun fact: I love to laugh and making jokes to make fun.
+
+
+# Technologies Stack
+
+
+# Tools
+
 
 
 ## Support me
