@@ -11,7 +11,7 @@
 <a href="https://github.com/MuhammadUmairghufran">
   <img align="left" alt="Muhammad Umair's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/@umairghufran">
+<a href="https://t.me/umairghufran">
   <img align="left" alt="Muhammad Umair's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br/>
