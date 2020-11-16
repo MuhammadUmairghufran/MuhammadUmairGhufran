@@ -1,7 +1,7 @@
 
-# Hi! 👋🏻 Full Stack Developer | React Native Developer (IOS & Android)
+# Hi! 👋🏻 Full Stack Developer | React Native Developer 
 
-### Little bit more about me
+### Who Am I
 
 - 👨‍💻 24 Old - Full Stack developer 
 - 🎓 bachelor of computer science 
