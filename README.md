@@ -2,8 +2,6 @@
 <h2> Hi! Muhammad Umair Ghufran  | Full Stack Developer  <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
 <a href="https://twitter.com/umairghufran">
   <img align="left" alt="Muhammad Umair's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -28,9 +26,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Business Solution, Health & Startups
 - 💬 Ask me about anything React Native ♥️ & My technologies stacks
 - 📫 How to reach me: meet@umairghufran.com 
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Passionate Programmer
+- ⚡ Fun fact: I love to laugh and making jokes to make fun.
 -->
 
 
-
+<a href="https://github.com/MuhammadUmairghufran">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadUmairghufran&theme=light" />
+</a>
