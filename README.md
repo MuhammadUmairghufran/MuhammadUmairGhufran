@@ -3,7 +3,7 @@
 
 ### Who Am I
 
-- 👨‍💻 24 Old - Full Stack developer 
+- 👨‍💻  24 year old Problem Solver & Programmer
 - 🎓 bachelor of computer science 
 - 🔭 I’m currently working on my own Mobile Apps 
 - 🌱 I’m currently learning Typescript
