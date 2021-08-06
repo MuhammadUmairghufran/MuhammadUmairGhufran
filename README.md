@@ -3,10 +3,10 @@
 
 ### Who Am I
 
-👨‍💻  24 year old Problem Solver & Programmer
-🎓  Bachelor of computer science 
-🔭  I’m currently working on my own Mobile Apps 
-🌱  I’m currently learning Typescript
+- [x] A completed task 👨‍💻  24 year old Problem Solver & Programmer
+- 🎓  Bachelor of computer science 
+- 🔭  I’m currently working on my own Mobile Apps 
+- 🌱  I’m currently learning Typescript
 🤔  I’m looking for help with Business Solution, Health & Startups
 💬  Ask me about anything React Native ♥️ & My technologies stacks
 📫  How to reach me: meet@umairghufran.com 
