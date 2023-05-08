@@ -23,7 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">  Terminal</code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zahidalidev&count_private=true&show_icons=true&locale=en&theme=vision-friendly-dark" alt="zahidalidev" />
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmairGhufran&count_private=true&show_icons=true&locale=en&theme=vision-friendly-dark" alt="MuhammadUmairGhufran" />
 
 ## 🙋 Support me
 
