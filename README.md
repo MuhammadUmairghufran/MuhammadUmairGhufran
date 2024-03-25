@@ -24,6 +24,29 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">  Terminal</code>
 
 
+### 💻 Technologies & Tools
+
+- **Languages**: 
+  - JavaScript (Node.js, React) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![React](https://img.icons8.com/color/48/000000/react-native.png)
+  - Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+  - Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+- **Frameworks**: 
+  - Express.js ![Express.js](https://img.icons8.com/color/48/000000/express.png)
+  - Spring Boot ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+  - Django ![Django](https://img.icons8.com/color/48/000000/django.png)
+- **Databases**: 
+  - PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+  - MongoDB ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+  - MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+- **Tools**: 
+  - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+  - Docker ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+  - Kubernetes ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+- **Others**: 
+  - RESTful APIs
+  - GraphQL
+  - CI/CD pipelines
+
 
 ## 🙋 Support me
 
